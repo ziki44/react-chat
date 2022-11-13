@@ -1,0 +1,19 @@
+{
+  "messages": [
+    {
+      "id": "d5a2ce56-5f12-42ee-bc07-c49fc793fcea",
+      "author": "Daniel",
+      "message": "Hello"
+    },
+    {
+      "id": "8ecba941-257d-4c7d-9758-81ab2314fc09",
+      "author": "Roman",
+      "message": "Teścik bla bla 4"
+    },
+    {
+      "id": "0fc3f1d6-f991-4378-b237-e9338eff5f2f",
+      "author": "Paweł",
+      "message": "bla 9"
+    }
+  ]
+}
